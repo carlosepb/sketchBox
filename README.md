@@ -53,7 +53,7 @@ Versión demo. https://editor.p5js.org/carlosepb/present/wG4uOxnR7
 
 ## Herramientas de Desarrollo
 
-* [P5.js](https://editor.p5js.org/)
+* [p5.js](https://editor.p5js.org/)
 
 <!-- GETTING STARTED -->
 ## Empezando
