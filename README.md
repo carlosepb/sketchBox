@@ -36,18 +36,15 @@ Sketch hecho en P5js con menos de 1024 caracteres.
 ## Sobre el Proyecto
 ## Trabajo Realizado
 <p align="justify">
-Para la detección del sonido se ha utilizado la librería MINIM la cual podemos encontrar en el apartado de instalación.
-</p>
-
-<iframe src="https://editor.p5js.org/carlosepb/embed/wG4uOxnR7"></iframe>
-<iframe frameborder=0 style="min-width: 200px; width: 60%; height: 460px;" scrolling="no" seamless="seamless" srcdoc='<html><body><style type="text/css">.gist .gist-data { height: 400px; }</style><script src="https://editor.p5js.org/carlosepb/embed/wG4uOxnR7""></script></body></html>'></iframe> 
-
-<p align="justify">
-Detectamos el sonido y comprobamos que esta por encima de un umbral mínimo para evitar que la pelota salte de manera accidental. También utilizamos el sonido de entrada para modificar una línea que nos indica la cantidad de ruido que esta entrando.
+Utilizando la menor cantidad de código posible se ha hecho un pequeño sketch de una transición de una serie de cubos que rotan y se alejan entre si.
 </p>
 
 <p align="justify">
-Para el descenso de la pelota lo hacemos reduciendo progresivamente su altura para que su descenso sea menos brusco que el salto. También utilizaremos una variable a modo de contador que se reducirá si la pelota se encuentra despegada del suelo para evitar que pasemos todo el tiempo que queramos en el aire.
+Para ello se ha hecho uso de elementos en 3D para poder utilizar las funciones de rotación y translación lo que me ha permitido cambiar su posición añadiendo efectos con el menor uso de código.
+</p>
+
+<p align="justify">
+Para los efectos visuales se han utilizado las funciones colorMode y color las cuales me han permitido añadir un pequeño sombreado y para la degradación de color se ha aprovechado el propio iterador que se encarga de generar y posicionar los cubos para como he dicho anteriormente ahorrar el máximo código posible. 
 </p>
 
 ## Herramientas de Desarrollo
@@ -63,11 +60,10 @@ Para el descenso de la pelota lo hacemos reduciendo progresivamente su altura pa
 
 ### Ejecutar
 
-1. Proyecto.
-    * Acceder al editor de p5.js [aquí](https://editor.p5js.org/).
-    * Copiar el código
+1. Proyecto Editable.
+    * Acceder al editor de p5.js [aquí](https://editor.p5js.org/carlosepb/sketches/wG4uOxnR7).
     * ejecutar
-2. Enlace
+2. Enlace Presentación
     * Acceder al a este [enlace](https://editor.p5js.org/carlosepb/present/wG4uOxnR7)
  
 <!-- ROADMAP -->
