@@ -40,6 +40,7 @@ Para la detección del sonido se ha utilizado la librería MINIM la cual podemos
 </p>
 
 <iframe src="https://editor.p5js.org/carlosepb/embed/wG4uOxnR7"></iframe>
+<iframe frameborder=0 style="min-width: 200px; width: 60%; height: 460px;" scrolling="no" seamless="seamless" srcdoc='<html><body><style type="text/css">.gist .gist-data { height: 400px; }</style><script src="https://editor.p5js.org/carlosepb/embed/wG4uOxnR7""></script></body></html>'></iframe> 
 
 <p align="justify">
 Detectamos el sonido y comprobamos que esta por encima de un umbral mínimo para evitar que la pelota salte de manera accidental. También utilizamos el sonido de entrada para modificar una línea que nos indica la cantidad de ruido que esta entrando.
