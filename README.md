@@ -47,6 +47,10 @@ Para ello se ha hecho uso de elementos en 3D para poder utilizar las funciones d
 Para los efectos visuales se han utilizado las funciones colorMode y color las cuales me han permitido añadir un pequeño sombreado y para la degradación de color se ha aprovechado el propio iterador que se encarga de generar y posicionar los cubos para como he dicho anteriormente ahorrar el máximo código posible. 
 </p>
 
+<p align="justify">
+Versión demo. https://editor.p5js.org/carlosepb/present/wG4uOxnR7
+</p>
+
 ## Herramientas de Desarrollo
 
 * [P5.js](https://editor.p5js.org/)
