@@ -1,5 +1,5 @@
 # SketchBox
-Sketch hecho en P5js con menos de 1024 caracteres.
+Sketch hecho en p5.js con menos de 1024 caracteres.
 <!-- PROJECT LOGO -->
 <br/>
 
