@@ -33,28 +33,6 @@ Sketch hecho en P5js con menos de 1024 caracteres.
 
 
 <!-- ABOUT THE PROJECT -->
-## Sobre el Proyecto
-
-<p align="justify">
-Al iniciar el juego como primera pantalla nos encontraremos con un menú donde se nos explican los controles básicos del juego. Tenemos que para pausar o iniciar utilizamos la tecla espacio, para mover la pelota simplemente bastará con tener un micrófono abierto y hacer suficiente ruido para que la pelota ascienda y esquive los obstáculos. Cuidado con mantener demasiado tiempo la pelota en el aire ya que esta perderá la energía y perderás. (imagen_1.0)
-</p>
-<p align="center"><img src="images/menu.JPG" alt="menu" width="600" height="425"></br>imagen_1.0</p>
-
-<p align="justify">
-En el momento de juego podemos ver que tenemos dos contadores, uno que lleva la cuenta de la distancia que hemos recorrido y otro que se encarga de decirnos la cantidad de energía que le queda a la pelota, la cual se reducirá según el tiempo que pasemos en el aire. (imagen_2.0)
-</p>
-<p align="center"><img src="images/juego.JPG" alt="juego" width="600" height="425"></br>imagen_2.0</p>
-
-<p align="justify">
-Además como señales visuales veremos que según se nos acabe la energía el fondo se pondrá rojo cuando menos energía nos quede y tendremos una línea en el centro que nos avisará cuando este detectando sonidos. (imagen_3.0)
-</p>
-<p align="center"><img src="images/energy.JPG" alt="energia" width="600" height="425"></br>imagen_3.0</p>
-
-<p align="justify">
-En la siguiente demostración podremos ver en movimiento lo descrito en los párrafos anteriores.(imagen_4.0)
-</p>
-<p align="center"><img src="images/animation.gif" alt="ejecución" width="600" height="425"></br>imagen_4.0</p>
-
 ## Trabajo Realizado
 <p align="justify">
 Para la detección del sonido se ha utilizado la librería MINIM la cual podemos encontrar en el apartado de instalación.
